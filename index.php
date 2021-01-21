@@ -13,19 +13,19 @@
 Let us always pray for our health. 
 <br><br>
 <p align=center> 
-<img src="C:\Users\Nets\Downloads\week3\sun.jpg.jpg"width=210,length=210></img> 
+<img src="sun.jpg.jpg"width=210,length=210></img> 
 <br>
 The sunshine is so bright 
 <br>
 It gives hope to everyone 
 <br><br>
-<img src="C:\Users\Nets\Downloads\week3\circle.jpg.jpg" width=300,length=300></img> 
+<img src="circle.jpg.jpg" width=300,length=300></img> 
 <br>
 It’s a small 
 <br>
 <b>World after all</b> 
 <br> <br> 
-<p align=right><img src="C:\Users\Nets\Downloads\week3\smiley.jpg.jpg" width=450,length=450></img> 
+<p align=right><img src="smiley.jpg.jpg" width=450,length=450></img> 
 <br>
 <b>Always wear a smile, 
 </b><br> 
@@ -52,7 +52,7 @@ with it.
 <br><br> 
 <font color="red", size=2, face=tahoma>Andy Andrews</font>
 <br><br>
-<p align=right><img src="C:\Users\Nets\Downloads\week3\download.jpg" width=210,length=210></img>
+<p align=right><img src="download.jpg" width=210,length=210></img>
 <br><br>
 <p align=center><font color=a5a58d, size=10, face=verdana>Kent Adrian F. Cortoceña</font> 
 
