@@ -21,7 +21,7 @@ It gives hope to everyone
 <br><br>
 <img src="C:\Users\Nets\Downloads\week3\circle.jpg.jpg" width=300,length=300></img> 
 <br>
-Itís a small 
+It‚Äôs a small 
 <br>
 <b>World after all</b> 
 <br> <br> 
@@ -34,7 +34,7 @@ you might inspire somebody
 with it. 
 </p>
 <br><br><br><br>
-<font color="red", size=2, face=tahoma><i><b>ìBeginning today, I will create a new future by creating a new me.</b></i></font>
+<font color="red", size=2, face=tahoma><i><b>‚ÄúBeginning today, I will create a new future by creating a new me.</b></i></font>
 <br><br>
 <font color="black", size=3, face=tahoma><i><b>No longer will I dwell in a pit of despair,</b></i></font>
 <br><br>
@@ -48,13 +48,13 @@ with it.
 <br><br>
 <font color="red", size=7, face=tahoma><b>I will always choose to act!  I seize this moment.</b></font>
 <br><br>
-<font color="black", size=7, face=tahoma><b>I choose now.î ~</b></font>
+<font color="black", size=7, face=tahoma><b>I choose now.‚Äù ~</b></font>
 <br><br> 
 <font color="red", size=2, face=tahoma>Andy Andrews</font>
 <br><br>
 <p align=right><img src="C:\Users\Nets\Downloads\week3\download.jpg" width=210,length=210></img>
 <br><br>
-<p align=center><font color=a5a58d, size=10, face=verdana>Kent Adrian F. CortoceÒa</font> 
+<p align=center><font color=a5a58d, size=10, face=verdana>Kent Adrian F. Cortoce√±a</font> 
 
 
 </body>
